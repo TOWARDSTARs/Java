@@ -1,4 +1,4 @@
-package com.towardstars.ProcessControl;
+package com.towardstars.processControl;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
 package com.towardstars.struct;
 
-public class NmNList_forDemo04 {
+public class forDemo04_NmNList {
     public static void main(String[] args) {
         //1.先打印第一列，9.fori
         //2.把固定的1再用一个循环包起来，9.forj

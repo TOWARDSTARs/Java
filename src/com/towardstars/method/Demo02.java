@@ -37,5 +37,20 @@ public class Demo02 {
         }
 
         return result;
+    }//比大小
+    public static int max(float num1,float num2){
+        int result;
+
+        if(num1==num2){
+            System.out.println("num1==num2");
+            return 0; //End
+        }
+        if(num1>num2) {
+            result=(int) num1;
+        }else{
+            result=(int) num2;
+        }
+
+        return result;
     }
 }
