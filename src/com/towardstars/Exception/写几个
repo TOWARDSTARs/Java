@@ -1,0 +1,23 @@
+Throwable
+       1.Error
+            (1)VirtualMachineError
+                  a.StackOverFlow
+                  b.OutOfMemoryError
+            (2)AWTError
+
+
+       2.Exception
+            (1)IOException
+                  a.EOFException
+                  b.FileNotFoundException
+            (2)RuntimeException
+                  a.ArithmeticException(算数异常)
+                  b.MissingResourceException
+                  c.ClassNotFoundException
+                  d.NullPointerException(空指针)
+                  e.IllegalArgumentException
+                  f.ArrayIndexOutOfBoundsException
+                  g.UnknownTypeException
+
+
+Ctrl+Alt+T  try/catch/finally
